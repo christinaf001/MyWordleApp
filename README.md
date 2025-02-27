@@ -2,7 +2,7 @@
 
 Submitted by: Christina Fraser
 
-Wordle is an app that ... [TODO] 
+Wordle is an app that is a word game.
 
 Time spent: 20 hours spent in total
 
